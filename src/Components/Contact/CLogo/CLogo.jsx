@@ -8,7 +8,7 @@ export default function CLogo() {
   return (
     <div className='CLogo m-t'>
         <div className="container">
-        <div className="row align-items-center justify-content-cente">
+        <div className="row align-items-center justify-content-center">
           <div className="col-md-6">
             <div className="cl-cont" align="center">
               <h1 className='mhd'>Contact</h1>

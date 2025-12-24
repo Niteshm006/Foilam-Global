@@ -26,6 +26,7 @@ export default function LAF() {
       transition: { duration: 1, ease: "easeInOut" },
     },
   };
+  
 
   const rightContentVariants = {
     hidden: { x: "100vw", opacity: 0 },
